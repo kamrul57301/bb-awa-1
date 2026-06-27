@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Exterior Home Painters Winter Garden, FL | AWA Coatings</title>
+<meta name="description" content="Exterior coating &amp; house painting in Winter Garden, Orange County. Waterproof, heat-reflective, lifetime-warranty coating systems that outlast paint. 5.0 on Google. Free quote: (407) 669-3261.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600;700;800;900&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../../assets/styles.css">
+</head>
+<body>
+<!-- OFFER BAR -->
+<div class="offer">
+  <span>🎉 <b>50% OFF + 0% INTEREST FOR 12 MONTHS</b> on exterior coating projects</span>
+  <span>•</span>
+  <span>Call now: <a href="tel:4076693261" class="ph">(407) 669-3261</a></span>
+</div>
+<div class="splash"></div>
+<nav>
+  <div class="nav-in">
+    <a href="/" class="brand"><img src="../../assets/AWA-Coatings-Logo-250x120-4.png" alt="AWA Coatings LLC"></a>
+    <ul class="nav-links">
+      <li><a href="/">Home</a></li>
+      <li><a href="/about-us/">About Us</a></li>
+      <li><a>Services <i class="caret"></i></a>
+        <div class="dropdown">
+          <a href="/services/residential-exterior-painting/">Residential Exterior Coating</a>
+          <a href="/services/commercial-painting/">Commercial Coating</a>
+          <a href="/services/roof-coatings/">Roof Coatings</a>
+        </div></li>
+      <li><a href="/areas-we-serve/">Areas We Serve <i class="caret"></i></a>
+        <div class="dropdown cols">
+          <a href="/areas-we-serve/exterior-home-painters-orlando/">Orlando</a>
+          <a href="/areas-we-serve/winter-park/">Winter Park</a>
+          <a href="/areas-we-serve/windermere/">Windermere</a>
+          <a href="/areas-we-serve/winter-garden/">Winter Garden</a>
+          <a href="/areas-we-serve/dr-phillips/">Dr. Phillips</a>
+          <a href="/areas-we-serve/sanford/">Sanford</a>
+          <a href="/areas-we-serve/clermont/">Clermont</a>
+          <a href="/areas-we-serve/deland/">DeLand</a>
+          <a href="/areas-we-serve/tavares/">Tavares</a>
+          <a href="/areas-we-serve/">View All Areas</a>
+        </div></li>
+      <li><a href="/testimonials/">Testimonials</a></li>
+      <li><a href="/blog/">Blog</a></li>
+      <li><a href="/contact/">Contact</a></li>
+      <li><a href="/careers/">Careers</a></li>
+    </ul>
+    <div class="nav-cta">
+      <a href="tel:4076693261" class="nav-phone">(407) 669-3261<span>Free Consultation</span></a>
+      <a href="#quote" class="btn btn-primary">Free Quote</a>
+    </div>
+    <div class="nav-toggle" id="navToggle"><span></span><span></span><span></span></div>
+  </div>
+  <div class="mnav" id="mnav">
+    <a href="/">Home</a>
+    <a href="/about-us/">About Us</a>
+    <a href="/services/residential-exterior-painting/" class="sub">Residential Exterior Coating</a>
+    <a href="/services/commercial-painting/" class="sub">Commercial Coating</a>
+    <a href="/services/roof-coatings/" class="sub">Roof Coatings</a>
+    <a href="/areas-we-serve/">Areas We Serve</a>
+    <a href="/testimonials/">Testimonials</a>
+    <a href="/blog/">Blog</a>
+    <a href="/contact/">Contact</a>
+    <a href="/careers/">Careers</a>
+    <div class="mcta">
+      <a href="tel:4076693261" class="btn btn-teal">📞 Call</a>
+      <a href="#quote" class="btn btn-primary">Free Quote</a>
+    </div>
+  </div>
+</nav>
+<header class="phero" id="top">
+  <div class="phero-bg"><img src="../../assets/residential.jpg" alt="Exterior coating on a Winter Garden, Florida home"></div>
+  <div class="phero-ov"></div>
+  <div class="phero-in">
+    <div>
+      <div class="crumb"><a href="/">Home</a><span class="sep">/</span><a href="/areas-we-serve/">Areas We Serve</a><span class="sep">/</span><span>Winter Garden</span></div>
+      <span class="hero-eyebrow">Serving Winter Garden, Orange County</span>
+      <h1>Exterior Home Painters<br><span class="hl">Winter Garden Trusts.</span></h1>
+      <p class="sub">Upgrade from traditional paint to a coating system that protects your Winter Garden home longer, waterproof, heat-reflective, fire-rated, and backed by a lifetime warranty. Built for Florida.</p>
+      <div class="phero-cta">
+        <a href="#quote" class="btn btn-primary">Get My Free Quote</a>
+        <a href="tel:4076693261" class="btn btn-ghost">📞 (407) 669-3261</a>
+      </div>
+      <div class="phero-trust">
+        <div class="htp"><span class="st">★★★★★</span> 5.0 on Google (23 reviews)</div>
+        <div class="htp">🛡️ Lifetime Warranty</div>
+      </div>
+    </div>
+    <div class="hero-card" id="quote">
+      <h3>Get a Free Consultation &amp; Quote</h3>
+      <span class="save">50% OFF + 0% INTEREST 12 MO.</span>
+      <form class="hf" onsubmit="return false">
+        <input type="text" placeholder="Full Name" required>
+        <div class="row2"><input type="tel" placeholder="Phone" required><input type="text" placeholder="ZIP Code" required></div>
+        <input type="email" placeholder="Email Address" required>
+        <select><option value="">Type of Property…</option><option>Residential</option><option>Commercial</option><option>Metal &amp; Tile Roof</option></select>
+        <button class="btn btn-primary">Claim My Free Quote →</button>
+        <p class="fine">Speak with a local Winter Garden coating expert today.</p>
+      </form>
+    </div>
+  </div>
+</header>
+
+<div class="ratings"><div class="ratings-in">
+  <span class="lead">Trusted in<br>Winter Garden, FL</span>
+  <img src="../../assets/Google-Star-Rating.png" alt="5.0 Google Rating">
+  <img src="../../assets/Yelp-Star-Rating.png" alt="5.0 Yelp Rating">
+  <img src="../../assets/Home-Advisor-Star-Rating.png" alt="5.0 HomeAdvisor Rating">
+  <img src="../../assets/Lifetime-Warrenty.png" alt="Warranty Backed">
+</div></div>
+
+<section>
+  <div class="wrap">
+    <div class="split">
+      <div class="split-txt">
+        <div class="kicker">Don't Just Paint Your Winter Garden Home, Protect It</div>
+        <h2>Coatings Built For <span class="hl">Orange County Weather</span></h2>
+        <p>From Historic Downtown to the fast-growing Horizon West and Hamlin communities, Winter Garden homes face intense Florida sun year-round. Our heat-reflective coating keeps walls cooler and ends the cycle of repainting every few years.</p>
+        <p>For 30+ years, AWA Coatings has protected Winter Garden's blend of historic downtown homes and new construction with a patented coating system engineered to defend against the elements year after year, no chips, no cracks, no peeling.</p>
+        <div class="phero-cta" style="margin-top:6px">
+          <a href="#quote" class="btn btn-primary">Get My Free Quote</a>
+          <a href="/testimonials/" class="btn btn-teal">Read Reviews</a>
+        </div>
+      </div>
+      <div class="split-img"><img src="../../assets/residential.jpg" alt="AWA Coatings exterior coating project in Winter Garden, FL"></div>
+    </div>
+  </div>
+</section>
+
+<section class="bg2">
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="kicker">Why Winter Garden Chooses AWA</div>
+      <h2>A Finish That <span class="hl">Outlasts Paint</span></h2>
+    </div>
+    <div class="why-grid">
+      <div class="why-card"><div class="why-ic">🛡️</div><h3>10x Thicker Than Paint</h3><p>Applied far thicker than ordinary paint to form a durable, waterproof, armor-like barrier that resists cracking and peeling on Winter Garden exteriors.</p></div>
+      <div class="why-card"><div class="why-ic">🌡️</div><h3>Cooler Walls, Lower Bills</h3><p>Our heat-reflective coating keeps walls up to 40° cooler during peak Florida summers, helping reduce cooling costs for Winter Garden homeowners.*</p></div>
+      <div class="why-card"><div class="why-ic">💧</div><h3>Waterproof &amp; Fire-Rated</h3><p>Waterproof protection against Orange County's humidity and storms, plus a Class A Fire Rating and powerful UV resistance.</p></div>
+      <div class="why-card alt"><div class="why-ic">🔁</div><h3>End Constant Repainting</h3><p>Most homes need repainting every 5-7 years. Our system ends that cycle, saving Winter Garden homeowners thousands over time.</p></div>
+      <div class="why-card alt"><div class="why-ic">🎨</div><h3>Any Color, HOA-Approved</h3><p>From HOA-approved palettes to a fully custom look, our system can be applied to almost any exterior surface in Winter Garden.</p></div>
+      <div class="why-card alt"><div class="why-ic">📜</div><h3>Lifetime Warranty</h3><p>Backed by a lifetime transferable warranty against peeling, cracking, and premature failure, peace of mind paint can't offer.</p></div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="kicker">Services in Winter Garden</div>
+      <h2>What We <span class="hl">Coat &amp; Protect</span></h2>
+    </div>
+    <div class="why-grid" style="grid-template-columns:repeat(3,1fr)">
+      <div class="why-card"><div class="why-ic">🏠</div><h3>Residential Coatings</h3><p>Shield your Winter Garden home with a thick, waterproof, heat-reflective barrier that enhances curb appeal and outlasts paint. <a href="/services/residential-exterior-painting/">Learn more →</a></p></div>
+      <div class="why-card"><div class="why-ic">🏢</div><h3>Commercial Coatings</h3><p>Engineered for performance on offices, multi-family, and municipal buildings throughout Orange County. <a href="/services/commercial-painting/">Learn more →</a></p></div>
+      <div class="why-card"><div class="why-ic">🏚️</div><h3>Roof Coatings</h3><p>Heat-reflective roof systems cut metal &amp; tile roof temperatures by up to 50%, lowering bills and extending roof life. <a href="/services/roof-coatings/">Learn more →</a></p></div>
+    </div>
+  </div>
+</section>
+
+<section class="bg2" id="reviews">
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="kicker">Happy Customers</div>
+      <h2>Trusted By <span class="hl">Central Florida</span></h2>
+    </div>
+    <div class="tgrid">
+      <div class="tcard"><div class="tstars">★★★★★</div><p class="q">"Our house looks better than new! Gary and his team treated our home as if it were theirs. Our experience from start to finish was professional, positive, informative, and punctual."</p><div class="tname">Leslie B.<span>Posted on Google</span></div></div>
+      <div class="tcard"><div class="tstars">★★★★★</div><p class="q">"After considering numerous painters, I settled on AWA Coatings for their expertise and outstanding quality. My home is now a jewel in the neighborhood."</p><div class="tname">Michael C.<span>Avalon Park, Orlando</span></div></div>
+      <div class="tcard"><div class="tstars">★★★★★</div><p class="q">"AWA Coating crew was excellent. Attention to detail was superb and cleanup was excellent. We couldn't find any issues during final inspection."</p><div class="tname">Susan W.<span>Posted on Google</span></div></div>
+    </div>
+    <div class="tcta"><a href="/testimonials/" class="btn btn-teal">Read More Reviews</a></div>
+  </div>
+</section>
+
+<section id="areas">
+  <div class="wrap areas-wrap">
+    <div class="sec-head" style="margin-bottom:22px">
+      <div class="kicker">Neighborhoods We Serve in Winter Garden</div>
+      <h2>Proudly Serving <span class="hl">Winter Garden &amp; Nearby</span></h2>
+    </div>
+    <div class="area-tags"><a href="#quote" class="area-tag">Historic Downtown</a><a href="#quote" class="area-tag">Hamlin</a><a href="#quote" class="area-tag">Stoneybrook West</a><a href="#quote" class="area-tag">Independence</a><a href="#quote" class="area-tag">Horizon West</a><a href="#quote" class="area-tag">Oakland border</a></div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <div class="sec-head">
+      <div class="kicker">FAQ</div>
+      <h2>Winter Garden Coating <span class="hl">Questions</span></h2>
+    </div>
+    <div class="faq-wrap">
+      <div class="faq"><h3><span class="q">Q.</span> Do you serve all of Winter Garden?</h3><p>Yes, we provide exterior coating and house painting throughout Winter Garden and the surrounding Orange County area, including Historic Downtown, Hamlin, and nearby neighborhoods.</p></div>
+      <div class="faq"><h3><span class="q">Q.</span> How is a coating different from regular paint?</h3><p>Traditional paint is a thin film that fades and peels in a few years. Our coating is applied up to 10x thicker, creating a waterproof, flexible, heat-reflective, fire-rated barrier built to protect for decades, backed by a lifetime warranty.</p></div>
+      <div class="faq"><h3><span class="q">Q.</span> Will it lower my energy bills?</h3><p>Our heat-reflective coatings reflect Florida's heat instead of absorbing it, for up to 21.9% reduced cooling costs and up to 40% lower wall temperatures during peak Winter Garden summers.*</p></div>
+      <div class="faq"><h3><span class="q">Q.</span> Do you offer financing?</h3><p>Yes. Right now we're offering 50% off plus 0% interest for 12 months on exterior coating projects in Winter Garden so you can protect your home and pay over time.</p></div>
+      <div class="faq"><h3><span class="q">Q.</span> How do I get started?</h3><p>Call us at (407) 669-3261 or request a free quote to schedule a no-pressure consultation with a local Winter Garden coating expert.</p></div>
+    </div>
+  </div>
+</section>
+
+<section class="final" id="get-quote" style="padding:0">
+  <div class="final-in">
+    <div>
+      <h2>Ready To Protect<br>Your <span class="hl">Property?</span></h2>
+      <p>Get a free, no-obligation estimate from Central Florida's trusted, 5-star-rated exterior coating experts. We'll walk your property, answer your questions, and show you exactly how our coating system protects your home for the long haul.</p>
+      <div class="pts">
+        <div class="pt"><span class="c">✓</span> 5.0 Google rating across Central Florida</div>
+        <div class="pt"><span class="c">✓</span> 50% off + 0% interest for 12 months</div>
+        <div class="pt"><span class="c">✓</span> Waterproof, heat-reflective, fire-rated system</div>
+        <div class="pt"><span class="c">✓</span> Backed by a lifetime transferable warranty</div>
+      </div>
+    </div>
+    <div class="form-card">
+      <h3>Get Your Free Quote</h3>
+      <p class="fsub">Tell us about your project and we'll be in touch fast.</p>
+      <form class="ff" onsubmit="return false">
+        <input type="text" placeholder="Full Name" required>
+        <div class="row2"><input type="tel" placeholder="Phone" required><input type="text" placeholder="ZIP Code" required></div>
+        <input type="email" placeholder="Email Address" required>
+        <select><option value="">Service Needed…</option><option>Residential Exterior Coating</option><option>Commercial Coating</option><option>Roof Coatings</option><option>Other / Not Sure</option></select>
+        <button class="btn btn-primary">Claim My Free Quote →</button>
+        <p class="fine">By submitting, you agree to be contacted by AWA Coatings about your project. No spam, ever.</p>
+      </form>
+    </div>
+  </div>
+</section>
+<footer>
+  <div class="foot-grid">
+    <div>
+      <img src="../../assets/logo_white.png" class="flogo" alt="AWA Coatings LLC">
+      <p class="foot-p">A family-owned exterior painting &amp; coating company proudly protecting homes and businesses across Central Florida.</p>
+      <p class="foot-p" style="margin-top:14px"><a href="tel:4076693261" style="color:var(--teal);font-weight:700;display:inline">(407) 669-3261</a><br><a href="mailto:sales@awacoatings.com" style="color:var(--teal);font-weight:700;display:inline">sales@awacoatings.com</a><br>2789 Wrights Rd, Oviedo, FL 32765</p>
+    </div>
+    <div><h4>Services</h4>
+      <a href="/services/residential-exterior-painting/">Residential Coatings</a>
+      <a href="/services/commercial-painting/">Commercial Coatings</a>
+      <a href="/services/roof-coatings/">Roof Coatings</a></div>
+    <div><h4>Areas We Serve</h4>
+      <a href="/areas-we-serve/exterior-home-painters-orlando/">Orlando</a>
+      <a href="/areas-we-serve/winter-park/">Winter Park</a>
+      <a href="/areas-we-serve/windermere/">Windermere</a>
+      <a href="/areas-we-serve/winter-garden/">Winter Garden</a>
+      <a href="/areas-we-serve/">All of Central FL</a></div>
+    <div><h4>Company</h4>
+      <a href="/about-us/">About Us</a>
+      <a href="/testimonials/">Testimonials</a>
+      <a href="/blog/">Blog</a>
+      <a href="/careers/">Careers</a></div>
+    <div><h4>Get Started</h4>
+      <a href="/contact/">Contact Us</a>
+      <a href="#quote">Get a Free Quote</a>
+      <a href="tel:4076693261">Call (407) 669-3261</a></div>
+  </div>
+  <div class="foot-bottom">
+    © 2026 AWA Coatings LLC. All rights reserved. Quality You See. Value You Trust. &nbsp;|&nbsp; Powered By <b>Big Boy Media Group</b><br>
+    <span style="font-size:11px;color:#555c68">*Energy-savings and temperature figures reflect manufacturer testing of low-VOC, heat-reflective coating systems; actual results vary by property.</span>
+  </div>
+</footer>
+<script>
+  var t=document.getElementById('navToggle'),m=document.getElementById('mnav');
+  if(t){t.addEventListener('click',function(){m.classList.toggle('open');});
+    m.querySelectorAll('a').forEach(function(a){a.addEventListener('click',function(){m.classList.remove('open');});});}
+</script>
+</body>
+</html>
